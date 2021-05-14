@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="simple_menu_icons">
+        <item>@drawable/ic_lettere</item>
+        <item>@drawable/ic_ing</item>
+        <item>@drawable/ic_scienze</item>
+        <item>@drawable/ic_economia</item>
+        <item>@drawable/ic_medicina</item>
+    </array>
+
+    <array name="simple_menu_colors">
+        <item>#B2BBC1</item>
+        <item>#349C6D</item>
+        <item>#B2BBC1</item>
+        <item>#B2BBC1</item>
+        <item>#B2BBC1</item>
+    </array>
+
+</resources>

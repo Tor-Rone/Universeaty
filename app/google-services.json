@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695219132217",
+    "firebase_url": "https://universeaty-a0651-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "universeaty-a0651",
+    "storage_bucket": "universeaty-a0651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695219132217:android:5bd4b21ee6423c2715fae8",
+        "android_client_info": {
+          "package_name": "it.torrone.universeaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695219132217-e8nbtkj56cgj67c3k506s0iplnapfkli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.torrone.universeaty",
+            "certificate_hash": "0a91a4deeacc6842c0cd5bf4398ec9e6623b3c03"
+          }
+        },
+        {
+          "client_id": "695219132217-liabk2d1cfd4bmmku5u368jp7q2nh3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZN94218qgBHK3ueWJWvyrcD-3w-rdQGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695219132217-liabk2d1cfd4bmmku5u368jp7q2nh3hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
